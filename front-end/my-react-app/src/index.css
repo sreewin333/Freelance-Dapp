@@ -1,0 +1,118 @@
+.navbar ul{
+    
+  list-style-type:none;
+  background-color: rgb(10, 135, 213);
+  padding:0px;
+  margin-top: 30px;
+  overflow: hidden;
+  
+}
+.navbar a{
+  color: azure;
+  text-decoration: none;
+  padding:15px;
+  display:block;
+  text-align: center;
+}
+.navbar a:hover{
+  background-color: rgb(64, 139, 185); ;
+}
+.navbar li{
+  float: left;
+}
+.button{
+ background-color: rgb(228, 198, 255);
+}
+.reward{
+  text-align: right;
+  font-size:large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgba(72, 0, 143, 0.993);
+  
+  
+  
+}
+.connection{
+  text-align: right;
+}
+.account{
+  color: rgba(111, 42, 180, 0.795);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+.display{
+  text-align: center;
+  margin-top: 70px;
+}
+.display{
+  border: 2px solid;
+  height: 100px;
+  
+  
+}
+.button1{
+  background-color: rgb(58, 113, 150);
+}
+.button1:hover{
+  background-color: rgb(26, 168, 168);
+  cursor: pointer;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+}
+
+.display {
+  background-color:white;
+  background-color: rgba(240, 240, 240, 0.388);
+  padding: 140px; 
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 400px; 
+  margin-bottom: 20px;
+}
+
+form {
+  text-align: center;
+}
+
+label, input, button {
+  margin: 10px 0; 
+}
+
+
+.buttonarea{
+  text-align: center;
+}
+body {
+  background-image: url(image1.jpg); 
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  margin: 0px;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+.head{
+
+  color: rgb(23, 43, 43);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+.h2{
+  text-align: center;
+}
+.h4{
+  color: rgb(99, 11, 11);
+}
+.formContainer form {
+  text-align: left;
+}
+
+
+
+
